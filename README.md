@@ -102,6 +102,8 @@ The raw GTFS files are not included in this repository. Obtain the source datase
 ## Dashboard
 
 Open `chennai_mobility_dashboard.pbix` with Microsoft Power BI Desktop to explore the report.
+![Chennai Urban Mobility Intelligence Power BI Dashboard](./screenshots/dashboard-overview.png)
+
 
 ## Data Sources
 
